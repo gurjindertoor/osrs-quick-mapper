@@ -1,0 +1,45 @@
+Asgarnia: Mudskipper Point;aiq;(2996, 3112, 0);fairy ring
+Islands: South-east of Ardougne;air;(2700, 3249, 0);fairy ring
+Dungeons: Cave south of Dorgesh-Kaan;ajq;(2737, 5220, 0);fairy ring
+Kandarin: Slayer cave south-east of Rellekka;ajr;(2780, 3614, 0);fairy ring
+Islands: Penguins near Miscellania;ajs;(2500, 3897, 0);fairy ring
+Kharidian Desert: Necropolis;akp;(3284, 2704, 0);fairy ring
+Kandarin: Piscatoris Hunter area;akq;(2319, 3616, 0);fairy ring
+Feldip Hills: Feldip Hunter area;aks;(2571, 2958, 0);fairy ring
+Islands: Lighthouse;alp;(2502, 3638, 0);fairy ring
+Morytania: Haunted Woods east of Canifis;alq;(3599, 3496, 0);fairy ring
+Kandarin: McGrubor's Wood;als;(2644, 3497, 0);fairy ring
+Islands: South-west of Mort Myre;bip;(3410, 3326, 0);fairy ring
+Kharidian Desert: near Kalphite Hive;biq;(3249, 3095, 0);fairy ring
+Kandarin: Ardougne Zoo - Unicorns;bis;(2636, 3268, 0);fairy ring
+Islands: Isle of Souls;bjp;(2265, 2976, 0);fairy ring
+Other Realms: Realm of the Fisher King;bjr;(-1,-1,-1);fairy ring
+Islands: Near Zul-Andra;bjs;(2148, 3069, 0);fairy ring
+Feldip Hills: South of Castle Wars;bkp;(2385, 3037, 0);fairy ring
+Other Realms: Enchanted Valley;bkq;(-1,-1,-1);fairy ring
+Morytania: Mort Myre Swamp - south of Canifis;bkr;(3469, 3433, 0);fairy ring
+Other Realms: Zanaris;bks;(2412, 4436, 0);fairy ring
+Dungeons: TzHaar area;blp;(2433, 5127, 0);fairy ring
+Kandarin: Legends' Guild;blr;(2740, 3353, 0);fairy ring
+Islands: Miscellania;cip;(2513, 3885, 0);fairy ring
+Kandarin: North-west of Yanille;ciq;(2528, 3129, 0);fairy ring
+Kebos Lowlands: South of Mount Karuulm;cir;(1304, 3762, 0);fairy ring
+Great Kourend: Arceuus Library;cis;(1639, 3868, 0);fairy ring
+Kandarin: Sinclair Mansion - east;cjr;(2705, 3578, 0);fairy ring
+Other Realms: Cosmic entity's plane;ckp;(2075, 4850, 0);fairy ring
+Karamja: South of Tai Bwo Wannai Village;ckr;(2801, 3005, 0);fairy ring
+Morytania: Canifis;cks;(3447, 3472, 0);fairy ring
+Islands: South of Draynor Village;clp;(3082, 3208, 0);fairy ring
+Islands: Ape Atoll;clr;(2738, 2739, 0);fairy ring
+Islands: Hazelmere's home;cls;(2682, 3083, 0);fairy ring
+Other Realms: Abyssal Nexus;dip;(-1,-1,-1);fairy ring
+Other Realms: Gorak's Plane;dir;(-1,-1,-1);fairy ring
+Misthalin: Wizards' Tower;dis;(3110, 3149, 0);fairy ring
+Kandarin: Tower of Life;djp;(2658, 3232, 0);fairy ring
+Great Kourend: Chasm of Fire;djr;(1453, 3659, 0);fairy ring
+Karamja: Gnome Glider;dkp;(2900, 3113, 0);fairy ring
+Misthalin: Edgeville;dkr;(3127, 3496, 0);fairy ring
+Fremennik: Polar Hunter area;dks;(2744, 3721, 0);fairy ring
+Kharidian Desert: North of Nardah;dlq;(3423, 3018, 0);fairy ring
+Islands: Poison Waste south of Isafdar;dlr;(2213, 3101, 0);fairy ring
+Dungeons: Myreque hideout under The Hollows;dls;(-1,-1,-1);fairy ring
