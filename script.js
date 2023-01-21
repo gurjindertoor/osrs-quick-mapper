@@ -3,7 +3,7 @@ const RS_TILE_WIDTH_PX = 32, RS_TILE_HEIGHT_PX = 32; // Width and height in px o
 const RS_OFFSET_X = 1152; // Amount to offset x coordinate to get correct value
 const RS_OFFSET_Y = 8328; // Amount to offset y coordinate to get correct value
 
-var map = L.map('map').setView([-78.20207141002261, -135.7196044921875], 13);
+var map = L.map('map').setView([-78.20207141002261, -135.7196044921875], 9);
 
 L.tileLayer('https://raw.githubusercontent.com/Explv/osrs_map_tiles/master/0/{z}/{x}/{y}.png', {
     maxZoom: 19,
