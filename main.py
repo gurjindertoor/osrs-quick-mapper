@@ -41,7 +41,8 @@ async def handle_connection(websocket, path):
     while True:
         data = await websocket.recv()
         x, y = data.split(',')
-        user_coords = [x, y]
+        user_coords = [int(x), int(y), 0]
+
         closest_coordinates = None
         min_distance = None
 
@@ -51,15 +52,13 @@ async def handle_connection(websocket, path):
             if min_distance is None or distance < min_distance:
                 min_distance = distance
                 closest_coordinates = point
-
         if closest_coordinates in list_of_coordinates:
             for key, val in all_locations.items():
                 if val[0] == closest_coordinates and val[2] == 'fairy ring':
-                    response = f"Location: {key} \nUse {val[2]}: {val[1]}"
+                    response = f"{key} -- Use {val[2]}: {val[1]}"
                     await websocket.send(response)
         else:
-            response = 'No match'
-            await websocket.send(response)
+            await websocket.send('No match')
 
 start_server = websockets.serve(handle_connection, 'localhost', 8765)
 asyncio.get_event_loop().run_until_complete(start_server)
