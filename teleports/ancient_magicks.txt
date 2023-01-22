@@ -1,0 +1,7 @@
+Digsite;Senntisten Teleport/Tab;(3319, 3336, 0);teleport
+Canifis: Hair of the Den Tavern;Kharyrll Teleport/Tab;(3493, 3472, 0);teleport
+Ice Mountain;Lassar Teleport/Tab;(3007, 3478, 0);teleport
+Wilderness: Western Ruins;Dareeyak Teleport/Tab;(2973, 3748, 0);teleport
+Wilderness: Graveyard of Shadows;Carallangar Teleport/Tab;(3161, 3670, 0);teleport
+Wilderness: Demonic Ruins;Annakarl Teleport/Tab;(3288, 3884, 0);teleport
+Wilderness: Frozen Waste Plateau;Ghorrock Teleport/Tab;(2962, 3915, 0);teleport

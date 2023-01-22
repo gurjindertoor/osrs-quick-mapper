@@ -1,0 +1,8 @@
+Lunar Isle;Moonclan Teleport/Tab;(2111, 3915, 0);teleport
+Ourania Cave;Ourania Teleport/Tab;(2466, 3249, 0);teleport
+Waterbirth Island;Waterbirth Teleport/Tab;(2549, 3754, 0);teleport
+Barbarian Outpost;Barbarian Teleport/Tab;(2543, 3566, 0);teleport
+Port Khazard;Khazard Teleport/Tab;(2655, 3157, 0);teleport
+Fishing Guild;Fishing Guild Teleport/Tab;(2611, 3392, 0);teleport
+Catherby;Catherby Teleport/Tab;(2804, 3446, 0);teleport
+Wilderness: Ice Plateau;Ice Plateau Teleport/Tab;(2954, 3888, 0);teleport

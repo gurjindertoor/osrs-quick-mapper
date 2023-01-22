@@ -1,0 +1,12 @@
+Arceuus: Dark Altar;Arceuus Home Teleport/Tab;(1703, 3880, 0);teleport
+Arceuus Library;Arceuus Library Teleport/Tab;(1632, 3833, 0);teleport
+Draynor Manor;Draynor Manor Teleport/Tab;(3108, 3351, 0);teleport
+Battlefront;Battlefront Teleport/Tab;(1379, 3720, 0);teleport
+Mind Altar;Mind Altar Teleport/Tab;(2983, 3513, 0);teleport
+Salve Graveyard;Salve Graveyard Teleport/Tab;(3432, 3460, 0);teleport
+Fenkenstrain's Castle;Fenkenstrain's Castle Teleport/Tab;(3548, 3531, 0);teleport
+West Ardougne;West Ardougne Teleport/Tab;(2523, 3306, 0);teleport
+Harmony Island;Harmony Island Teleport/Tab;(3794, 2827, 0);teleport
+Wilderness: The Forgotten Cemetery;Cemetery Teleport/Tab;(2975, 3749, 0);teleport
+Barrows;Barrows Teleport/Tab;(3565, 3310, 0);teleport
+Ape Atoll;Ape Atoll Teleport/Tab;(2763, 2703, 0);teleport

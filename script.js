@@ -1,3 +1,11 @@
+const locations = [
+    { "name": "Abandoned Mine", "coords": [3441, 3236, 0], "size": "default" },
+    { "name": "Agility Arena", "coords": [2809, 3191, 0], "size": "default" },
+    { "name": "Agility Pyramid", "coords": [3364, 2840, 0], "size": "default" },
+    { "name": "Agility Training Area", "coords": [2481, 3424, 0], "size": "default" }
+];
+
+
 const MAP_HEIGHT_PX = 296704; // Total height of the map in px at max zoom level
 const RS_TILE_WIDTH_PX = 32, RS_TILE_HEIGHT_PX = 32; // Width and height in px of an rs tile at max zoom level
 const RS_OFFSET_X = 1152; // Amount to offset x coordinate to get correct value
@@ -48,4 +56,22 @@ map.on('click', function(e) {
     socket.onmessage = function(e) {
         marker.bindPopup(e.data).openPopup();
     }
+});
+
+locations.forEach(function(location) {
+    let latlng = [location.coords[0], location.coords[1]];
+    let marker = L.marker(latlng).addTo(map);
+    marker.bindTooltip(location.name);
+});
+
+// Add the search bar
+let searchBar = document.getElementById("search-bar");
+searchBar.addEventListener("input", function() {
+    let searchTerm = searchBar.value;
+    locations.forEach(function(location) {
+        if (location.name.toLowerCase().includes(searchTerm.toLowerCase())) {
+            let latlng = [location.coords[0], location.coords[1]];
+            map.setView(latlng, 14);
+        }
+    });
 });

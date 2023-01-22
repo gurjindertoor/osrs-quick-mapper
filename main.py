@@ -23,7 +23,7 @@ def parse_line(line: str) -> tuple:
     teleport_type = parts[3].strip()
     return location, teleport, coordinates, teleport_type
 
-text_files = ['fairy_rings.txt']
+text_files = ['teleports/fairy_rings.txt', 'teleports/standard_spellbook.txt']
 
 for file in text_files:
     with open(file, 'r') as script:
@@ -56,6 +56,9 @@ async def handle_connection(websocket, path):
             for key, val in all_locations.items():
                 if val[0] == closest_coordinates and val[2] == 'fairy ring':
                     response = f"{key} -- Use {val[2]}: {val[1]}"
+                    await websocket.send(response)
+                elif val[0] == closest_coordinates and val[2] == 'teleport':
+                    response = f"Use {val[1]}"
                     await websocket.send(response)
         else:
             await websocket.send('No match')

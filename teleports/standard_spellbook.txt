@@ -1,0 +1,17 @@
+Varrock;Varrock Teleport/Tab;(3213, 3423, 0);teleport
+Lumbridge;Lumbridge Teleport/Tab;(3221, 3218, 0);teleport
+Falador;Falador Teleport/Tab;(2965, 3380, 0);teleport
+Rimmington;Teleport/Tab to House: Rimmington;(2954, 3223, 0);teleport
+Taverley;Teleport/Tab to House: Taverley;(2894, 3464, 0);teleport
+Pollnivneach;Teleport/Tab to House: Pollnivneach;(3340, 3002, 0);teleport
+Hosidius;Teleport/Tab to House: Hosidius;(1742, 3517, 0);teleport
+Rellekka;Teleport/Tab to House: Rellekka;(2670, 3631, 0);teleport
+Brimhaven;Teleport/Tab to House: Brimhaven;(2758, 3177, 0);teleport.
+Yanille;Teleport/Tab to House: Yanille;(2544, 3095, 0);teleport
+Prifddinas;Teleport/Tab to House: Prifddinas;(3239, 6075, 0);teleport
+Camelot;Camelot Teleport/Tab;(2757, 3478, 0);teleport
+Ardougne;Ardougne Teleport/Tab;(2662, 3300, 0);teleport
+Watchtower;Watchtower Teleport/Tab;(2546, 3114, 0);teleport
+Trollheim;Trollheim Teleport/Tab;(2890, 3676, 0);teleport
+Ape Atoll;Ape Atoll Teleport/Tab;(2797, 2794, 0);teleport
+Kourend Castle;Kourend Castle Teleport/Tab;(1639, 3672, 0);teleport
