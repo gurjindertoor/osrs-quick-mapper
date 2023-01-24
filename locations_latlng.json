@@ -1,0 +1,3154 @@
+{"locations":[
+    {
+      "name": "Abandoned Mine",
+      "coords": [
+        -79.28120580745637,
+        -129.68261718750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Arena",
+      "coords": [
+        -79.46355533121124,
+        -143.56933593750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Pyramid",
+      "coords": [
+        -80.78439779333607,
+        -131.37451171875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Training Area",
+      "coords": [
+        -78.48507013219059,
+        -150.7763671875
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Training Area",
+      "coords": [
+        -77.97417900262458,
+        -149.63378906250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Training Area",
+      "coords": [
+        -75.92420715392785,
+        -139.41650390625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Al Kharid",
+      "coords": [
+        -79.62306689251965,
+        -132.93457031250003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ancient Cavern",
+      "coords": [
+        -66.20265930943025,
+        -166.57470703125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ape Atoll",
+      "coords": [
+        -81.09236332002038,
+        -144.93164062500003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Arandar",
+      "coords": [
+        -79.04157056482644,
+        -153.83056640625
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Arceuus",
+      "coords": [
+        -76.98880914979172,
+        -168.20068359375003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ardougne Sewers",
+      "coords": [
+        6.036773436940462,
+        -148.88671875000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ardougne Sewers Mine",
+      "coords": [
+        5.9275084409627175,
+        -146.95312500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ardougne Zoo",
+      "coords": [
+        -79.1206490296248,
+        -147.89794921875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Asgarnian Ice Dungeon",
+      "coords": [
+        3.803965054420254,
+        -138.53759765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ah Za Rhoon",
+      "coords": [
+        -1.554374729735434,
+        -141.39404296875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Avatar of Creation",
+      "coords": [
+        -80.6031895803911,
+        -158.57666015625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Avatar of Destruction",
+      "coords": [
+        -80.45859843482218,
+        -155.06103515625
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bandit Camp",
+      "coords": [
+        -77.21442395770028,
+        -138.55957031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bandit Camp",
+      "coords": [
+        -80.28217699509179,
+        -135.61523437500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Barbarian Assault",
+      "coords": [
+        -77.8082514368471,
+        -149.85351562500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Barbarian Outpost",
+      "coords": [
+        -77.86842824974958,
+        -149.21630859375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Barbarian Village",
+      "coords": [
+        -78.50698080907871,
+        -137.61474609375003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Barrows",
+      "coords": [
+        -79.06660385901762,
+        -126.97998046875001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Barrows Crypt",
+      "coords": [
+        6.32075833898686,
+        -127.26562500000001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Battlefield",
+      "coords": [
+        -79.29754017708176,
+        -149.91943359375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Battlefront",
+      "coords": [
+        -77.1314961969479,
+        -175.23193359375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Baxtorian Falls",
+      "coords": [
+        -78.32164549748073,
+        -150.07324218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bear",
+      "coords": [
+        -76.52066069695304,
+        -133.11035156250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bedabin Camp",
+      "coords": [
+        -80.06847650769424,
+        -135.65917968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Beehives",
+      "coords": [
+        -78.40584997410797,
+        -144.66796875000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black Knights' Fortress",
+      "coords": [
+        -78.08355926208098,
+        -138.82324218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Blast mine",
+      "coords": [
+        -76.46934798221153,
+        -172.4853515625
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Blue Base",
+      "coords": [
+        -80.5203170880877,
+        -158.59863281250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bone Yard",
+      "coords": [
+        -76.98386127173085,
+        -134.18701171875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Brimhaven",
+      "coords": [
+        -79.52365431801063,
+        -144.36035156250003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Brimhaven Dungeon",
+      "coords": [
+        2.4876214025668575,
+        -146.66748046875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Brine Rat Cavern",
+      "coords": [
+        15.966610400903184,
+        -145.56884765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Burgh de Rott",
+      "coords": [
+        -79.35451696285723,
+        -128.49609375000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Burthorpe",
+      "coords": [
+        -77.96043710029056,
+        -141.72363281250003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Cairn Isle",
+      "coords": [
+        -80.29329737777715,
+        -144.53613281250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Cairn Island Dungeon",
+      "coords": [
+        -0.6756435204204166,
+        -144.55810546875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Camelot Castle",
+      "coords": [
+        -78.11527674798776,
+        -144.68994140625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Canifis",
+      "coords": [
+        -78.20544034363972,
+        -128.49609375000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Castle Drakan",
+      "coords": [
+        -78.7752792239405,
+        -127.19970703125001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Castle Wars",
+      "coords": [
+        -79.80744314594183,
+        -151.89697265625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Catacombs of Kourend",
+      "coords": [
+        13.907408048156961,
+        -168.72802734375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Catherby",
+      "coords": [
+        -78.44552702405669,
+        -143.30566406250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Champions' Guild",
+      "coords": [
+        -78.76244054938232,
+        -135.17578125000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chapel",
+      "coords": [
+        -77.84531802255708,
+        -172.39746093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chaos Druid Tower Dungeon",
+      "coords": [
+        7.367914706747756,
+        -148.60107421875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chaos Temple",
+      "coords": [
+        -78.08355926208098,
+        -140.84472656250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chaos Temple",
+      "coords": [
+        -77.64947266768104,
+        -134.09912109375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Charcoal burners",
+      "coords": [
+        -78.29047101254125,
+        -167.10205078125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chasm of Fire",
+      "coords": [
+        -77.3209625359999,
+        -173.69384765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Clan Wars",
+      "coords": [
+        -79.5794408222298,
+        -131.22070312500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Clan Wars",
+      "coords": [
+        -71.07227469802608,
+        -130.10009765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Clocktower",
+      "coords": [
+        -79.26484679985128,
+        -148.79882812500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Clocktower Dungeon",
+      "coords": [
+        4.89941372427718,
+        -148.38134765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Coal Trucks",
+      "coords": [
+        -78.19645441244332,
+        -148.20556640625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Combat Training Camp",
+      "coords": [
+        -78.72383748863285,
+        -150.02929687500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Combat ring",
+      "coords": [
+        -77.57877763581085,
+        -171.38671875
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Cooks' Guild",
+      "coords": [
+        -78.38374913256803,
+        -136.23046875000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Corsair Cove",
+      "coords": [
+        -80.72792422222801,
+        -148.88671875000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Cosmic entity's plane",
+      "coords": [
+        -70.39813546178053,
+        -159.60937500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Crabclaw Isle",
+      "coords": [
+        -78.49822147832913,
+        -166.64062500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Crabclaw Caves",
+      "coords": [
+        9.129215680645755,
+        -168.50830078125
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Crafting Guild",
+      "coords": [
+        -79.09573797855488,
+        -140.99853515625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Crandor",
+      "coords": [
+        -79.13722515287506,
+        -142.97607421875003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Crandor Dungeon",
+      "coords": [
+        5.0307549347429195,
+        -142.69042968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Crash Island",
+      "coords": [
+        -81.19721733780807,
+        -141.26220703125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Creature Creation",
+      "coords": [
+        -73.42058823435089,
+        -138.53759765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Crombwick Manor",
+      "coords": [
+        -78.77100127541776,
+        -123.44238281250001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dark Altar",
+      "coords": [
+        -76.31945475877635,
+        -168.17871093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dark Warriors' Fortress",
+      "coords": [
+        -77.54565045485833,
+        -138.73535156250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dark Wizards' Tower",
+      "coords": [
+        -78.87322916142766,
+        -141.39404296875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Darkmeyer",
+      "coords": [
+        -78.74958737912681,
+        -125.66162109375001
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Death Plateau",
+      "coords": [
+        -77.7337839841031,
+        -142.38281250000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Deep Wilderness Dungeon",
+      "coords": [
+        19.99916046737026,
+        -138.49365234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Demonic Ruins",
+      "coords": [
+        -76.27781902217959,
+        -133.02246093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Desert Mining Camp",
+      "coords": [
+        -80.12516046780728,
+        -133.04443359375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Deserted Keep",
+      "coords": [
+        -76.0359910695315,
+        -136.01074218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Digsite",
+      "coords": [
+        -78.51573355868847,
+        -131.41845703125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Distilleries",
+      "coords": [
+        -80.21518924647346,
+        -122.08007812500001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Doors of Dinh",
+      "coords": [
+        -75.85993745401522,
+        -169.47509765625
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dorgesh-Kaan",
+      "coords": [
+        -66.44091101652613,
+        -145.59082031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dragontooth Island",
+      "coords": [
+        -77.90070986954176,
+        -121.66259765625001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Draynor Manor",
+      "coords": [
+        -78.84350798636584,
+        -137.08740234375003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Draynor Sewers",
+      "coords": [
+        5.818221806434406,
+        -137.02148437500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Draynor Village",
+      "coords": [
+        -79.19092540893564,
+        -137.06542968750003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Druids' Circle",
+      "coords": [
+        -78.22787567688712,
+        -141.02050781250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Duel Arena",
+      "coords": [
+        -79.29754017708176,
+        -131.44042968750003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Dwarven Mine",
+      "coords": [
+        -78.39259445086273,
+        -139.04296875000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dwarven Mine Dungeon",
+      "coords": [
+        8.412602260297849,
+        -138.84521484375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Eagles' Peak",
+      "coords": [
+        -78.20993077990676,
+        -154.05029296875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "East Ardougne",
+      "coords": [
+        -79.03739284826732,
+        -148.20556640625003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Eastern Graveyard",
+      "coords": [
+        -80.48406006684343,
+        -155.83007812500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ectofuntus",
+      "coords": [
+        -78.06085285427265,
+        -124.89257812500001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Edgeville Dungeon",
+      "coords": [
+        11.140676776401115,
+        -136.86767578125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Edgeville",
+      "coords": [
+        -78.16044314996957,
+        -137.48291015625003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Elemental Workshop",
+      "coords": [
+        -67.89001868431993,
+        -162.15820312500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Elf Camp",
+      "coords": [
+        -79.21973219669526,
+        -157.03857421875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Enakhra's Temple Bottom Floor",
+      "coords": [
+        -2.081451200750413,
+        -137.08740234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Entrana",
+      "coords": [
+        -78.6851035417044,
+        -142.82226562500003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Etceteria",
+      "coords": [
+        -76.33503619113436,
+        -147.96386718750003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Exam Centre",
+      "coords": [
+        -78.85200774004547,
+        -131.39648437500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Falador",
+      "coords": [
+        -78.75815777070612,
+        -139.28466796875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Falador Mole Lair",
+      "coords": [
+        -67.54846107386263,
+        -166.61865234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Falconer",
+      "coords": [
+        -77.66825768464919,
+        -153.12744140625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Farming Guild",
+      "coords": [
+        -77.0578856550608,
+        -177.86865234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Feldip Hills",
+      "coords": [
+        -80.27104399499258,
+        -149.12841796875003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Ferox Enclave",
+      "coords": [
+        -77.55038822769616,
+        -136.27441406250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fenkenstrain's Castle",
+      "coords": [
+        -77.90070986954176,
+        -127.33154296875001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fenkenstrain's Dungeon",
+      "coords": [
+        11.89422836054339,
+        -127.96875000000001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fight Arena",
+      "coords": [
+        -79.58341431252603,
+        -148.33740234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fishing Guild",
+      "coords": [
+        -78.58986688596204,
+        -148.07373046875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fishing Hamlet",
+      "coords": [
+        -76.02538257562097,
+        -168.09082031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fishing Platform",
+      "coords": [
+        -79.08742177907182,
+        -144.38232421875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Flax",
+      "coords": [
+        -78.4014331261226,
+        -144.99755859375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Foodhall",
+      "coords": [
+        -76.98386127173085,
+        -164.81689453125
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fountain of Rune",
+      "coords": [
+        -76.24651068267569,
+        -131.06689453125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Forthos Ruin",
+      "coords": [
+        -77.8082514368471,
+        -168.50830078125
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Forthos Dungeon",
+      "coords": [
+        11.872726613435072,
+        -165.32226562500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fossil Island",
+      "coords": [
+        -76.84456756504059,
+        -123.59619140625001
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Fremennik Isles",
+      "coords": [
+        -76.30385589904245,
+        -153.67675781250003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Fremennik Province",
+      "coords": [
+        -77.53616958508047,
+        -146.71142578125003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Fremennik Slayer Dungeon",
+      "coords": [
+        12.945675729694095,
+        -143.65722656250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Frozen Waste Plateau",
+      "coords": [
+        -76.11002982517681,
+        -140.20751953125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Glarial's Tomb",
+      "coords": [
+        9.194292714912653,
+        -149.41406250000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Gnome Ball Field",
+      "coords": [
+        -78.20993077990676,
+        -152.66601562500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Goblin Cave",
+      "coords": [
+        9.259357787309963,
+        -148.44726562500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Goblin Village",
+      "coords": [
+        -78.12432359421207,
+        -140.33935546875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "God Wars Dungeon",
+      "coords": [
+        -76.95909413214069,
+        -141.21826171875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Golden Apple Tree",
+      "coords": [
+        -77.65417156129827,
+        -144.51416015625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Grand Exchange",
+      "coords": [
+        -78.23235769213414,
+        -135.76904296875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Grand Tree",
+      "coords": [
+        -78.14239692818735,
+        -151.14990234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Grand Tree Tunnels",
+      "coords": [
+        10.493213228263974,
+        -151.17187500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Graveyard of Heroes",
+      "coords": [
+        -77.88227360522632,
+        -172.7490234375
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Graveyard of Shadows",
+      "coords": [
+        -77.34505380627323,
+        -135.76904296875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Graveyard",
+      "coords": [
+        -78.57246634297974,
+        -126.87011718750001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Gu'Tanoth",
+      "coords": [
+        -80.04191387236656,
+        -149.89746093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Harmony",
+      "coords": [
+        -80.7208409481883,
+        -121.77246093750001
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Haunted Woods",
+      "coords": [
+        -78.19195891630292,
+        -126.97998046875001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hemenster",
+      "coords": [
+        -78.42790934146714,
+        -147.41455078125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Here be penguins",
+      "coords": [
+        -75.89210815954266,
+        -147.83203125000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Heroes' Guild",
+      "coords": [
+        -78.10169374090704,
+        -141.65771484375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hosidius",
+      "coords": [
+        -77.70106380086996,
+        -166.92626953125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "House on the Hill",
+      "coords": [
+        -76.3402261323369,
+        -122.25585937500001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Iban's Lair Lower Level",
+      "coords": [
+        9.801090616449597,
+        -153.98437500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ice Mountain",
+      "coords": [
+        -78.23235769213414,
+        -139.21875000000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ice path",
+      "coords": [
+        -76.67345549205348,
+        -142.58056640625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Iceberg",
+      "coords": [
+        -75.47926317560815,
+        -146.49169921875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ice Queen's lair",
+      "coords": [
+        11.937226753541461,
+        -142.33886718750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Infirmary",
+      "coords": [
+        -77.59766849806758,
+        -171.91406250000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Isafdar",
+      "coords": [
+        -79.50766114392374,
+        -155.98388671875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Isle of Souls",
+      "coords": [
+        -80.66041615833421,
+        -156.75292968750003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Jail",
+      "coords": [
+        -79.25665804561217,
+        -136.62597656250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Jatizso",
+      "coords": [
+        -76.6430331887732,
+        -152.75390625000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Jiggig",
+      "coords": [
+        -80.03431163900316,
+        -151.12792968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Jiggig Dungeon (bottom level)",
+      "coords": [
+        0.7525418387094969,
+        -151.12792968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Jiggig Dungeon (middle level)",
+      "coords": [
+        0.7525418387094969,
+        -151.12792968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kalphite Lair",
+      "coords": [
+        -79.79966378447908,
+        -134.40673828125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Karamja",
+      "coords": [
+        -80.04191387236656,
+        -142.47070312500003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Karamja Dungeon",
+      "coords": [
+        3.6066246213236863,
+        -142.88818359375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kebos Lowlands",
+      "coords": [
+        -77.47437056912824,
+        -177.64892578125003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Kebos Swamp",
+      "coords": [
+        -77.59766849806758,
+        -177.73681640625003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Keep Le Faye",
+      "coords": [
+        -78.5942129350941,
+        -144.44824218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Keldagrim Entrance",
+      "coords": [
+        -77.15105606159943,
+        -145.41503906250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Keldagrim",
+      "coords": [
+        16.641455036937753,
+        -142.55859375000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Kharazi Jungle",
+      "coords": [
+        -80.49132244615642,
+        -143.04199218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kharidian Desert",
+      "coords": [
+        -80.35239356378979,
+        -133.57177734375003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Kingdom of Asgarnia",
+      "coords": [
+        -78.56811211767257,
+        -139.57031250000003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Kingdom of Great Kourend",
+      "coords": [
+        -77.24841774342171,
+        -170.04638671875003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Kingdom of Kandarin",
+      "coords": [
+        -78.39259445086273,
+        -148.77685546875003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Kingdom of Misthalin",
+      "coords": [
+        -78.94087000996285,
+        -134.64843750000003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Kourend Castle",
+      "coords": [
+        -77.34505380627323,
+        -169.60693359375
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kourend Woodland",
+      "coords": [
+        -78.29938637197219,
+        -171.38671875
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Lacerta Falls",
+      "coords": [
+        -78.26815329878167,
+        -174.90234375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Land's End",
+      "coords": [
+        -78.46751192571969,
+        -172.13378906250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lake Molch",
+      "coords": [
+        -77.45052151327856,
+        -175.2099609375
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Last Man Standing",
+      "coords": [
+        -61.59333290546682,
+        -129.35302734375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lava Dragon Isle",
+      "coords": [
+        -76.58708177417061,
+        -135.04394531250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lava Maze",
+      "coords": [
+        -76.48476189210903,
+        -137.72460937500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lava Maze Dungeon",
+      "coords": [
+        18.672267305093758,
+        -138.49365234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Legends' Guild",
+      "coords": [
+        -78.68941379033599,
+        -145.30517578125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Legends' Guild Dungeon",
+      "coords": [
+        7.607552723017519,
+        -145.52490234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Library",
+      "coords": [
+        -76.60745431501758,
+        -169.71679687500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lighthouse",
+      "coords": [
+        -77.56459090558843,
+        -150.13916015625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lighthouse Dungeon",
+      "coords": [
+        13.373587513919782,
+        -149.96337890625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lithkren",
+      "coords": [
+        -75.66539886741359,
+        -126.95800781250001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lizardman Canyon",
+      "coords": [
+        -77.24356693559487,
+        -171.93603515625
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lizardman Settlement",
+      "coords": [
+        -77.96501945255984,
+        -176.5283203125
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lizardman Temple",
+      "coords": [
+        14.588899572738569,
+        -176.46240234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lizards",
+      "coords": [
+        -80.04951036490311,
+        -130.12207031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lletya",
+      "coords": [
+        -79.51965828580475,
+        -153.74267578125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lovakengj",
+      "coords": [
+        -76.71391274844677,
+        -172.26562500000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Lovakengj Assembly",
+      "coords": [
+        -76.95909413214069,
+        -172.705078125
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lovakite mine",
+      "coords": [
+        -76.54624538556382,
+        -173.95751953125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lumber Yard",
+      "coords": [
+        -78.12432359421207,
+        -132.67089843750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lumbridge Swamp Caves",
+      "coords": [
+        3.6066246213236863,
+        -135.65917968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lumbridge Swamp",
+      "coords": [
+        -79.5116616993104,
+        -135.32958984375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lumbridge Basement",
+      "coords": [
+        4.680454682128591,
+        -134.69238281250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lumbridge",
+      "coords": [
+        -79.35451696285723,
+        -134.45068359375003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Lunar Isle",
+      "coords": [
+        -76.3402261323369,
+        -158.48876953125003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Mage Arena",
+      "coords": [
+        -76.03068780957297,
+        -137.06542968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mage Training Arena Rooms",
+      "coords": [
+        5.687049836049687,
+        -131.52832031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mage Training Arena",
+      "coords": [
+        -78.99972253705478,
+        -131.39648437500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Marim",
+      "coords": [
+        -80.98282740274416,
+        -144.64599609375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Draynor Market",
+      "coords": [
+        -79.24026201384729,
+        -137.57080078125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mausoleum",
+      "coords": [
+        -77.81752850717945,
+        -128.32031250000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "McGrubor's Wood",
+      "coords": [
+        -78.23683802499085,
+        -147.26074218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Meiyerditch",
+      "coords": [
+        -79.18680394914736,
+        -125.79345703125001
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Melzar's Maze",
+      "coords": [
+        -79.23205472734749,
+        -140.84472656250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Menaphos",
+      "coords": [
+        -80.99315289062152,
+        -134.25292968750003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Mess",
+      "coords": [
+        -77.60710332138387,
+        -169.23339843750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Miscellania",
+      "coords": [
+        -76.32984431559234,
+        -149.54589843750003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Miscellania and Etceteria dungeon",
+      "coords": [
+        18.755511365991328,
+        -149.08447265625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mogre Camp",
+      "coords": [
+        1.9606767908079445,
+        -139.94384765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Molch",
+      "coords": [
+        -77.35948694887145,
+        -176.4404296875
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Monastery",
+      "coords": [
+        -79.36668721129503,
+        -148.11767578125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Monastery",
+      "coords": [
+        -78.20544034363972,
+        -138.22998046875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mort Myre Swamp",
+      "coords": [
+        -78.67647818044496,
+        -129.70458984375003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Mort'ton",
+      "coords": [
+        -79.08742177907182,
+        -128.67187500000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Morytania",
+      "coords": [
+        -78.41026516312648,
+        -129.11132812500003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Mor Ul Rek",
+      "coords": [
+        -68.09585753940543,
+        -150.49072265625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mos Le'Harmless",
+      "coords": [
+        -80.09496899786296,
+        -123.79394531250001
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Motherlode Mine",
+      "coords": [
+        -63.211354038470915,
+        -123.00292968750001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mount Karuulm",
+      "coords": [
+        -76.67851925708261,
+        -176.484375
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Mount Quidamortem",
+      "coords": [
+        -77.88227360522632,
+        -177.95654296875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Mountain Camp",
+      "coords": [
+        -77.35467770147586,
+        -143.74511718750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mouse Hole",
+      "coords": [
+        -64.47042649559366,
+        -155.19287109375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mudskipper Point",
+      "coords": [
+        -79.76067877218138,
+        -139.54833984375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Musa Point",
+      "coords": [
+        -79.58341431252603,
+        -141.63574218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Museum Camp",
+      "coords": [
+        -76.61762919080434,
+        -123.33251953125001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mushroom Forest",
+      "coords": [
+        -76.40751965135658,
+        -124.25537109375001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Myth's Guild",
+      "coords": [
+        -80.77383503485562,
+        -151.30371093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Myth's Guild Basement",
+      "coords": [
+        -8.445205238179888,
+        -161.8505859375
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Nardah",
+      "coords": [
+        -80.5600417273813,
+        -129.99023437500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Necromancer",
+      "coords": [
+        -79.2607531940682,
+        -146.64550781250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Necropolis",
+      "coords": [
+        -81.15677473255275,
+        -132.03369140625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Neitiznot",
+      "coords": [
+        -76.62271378237696,
+        -154.3798828125
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Nightmare Zone",
+      "coords": [
+        -79.7645838976474,
+        -148.09570312500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Observatory",
+      "coords": [
+        -79.59929329498867,
+        -151.65527343750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Observatory Dungeon",
+      "coords": [
+        -0.6976145987557035,
+        -154.00634765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ogre Enclave",
+      "coords": [
+        0.8184536092473124,
+        -148.33740234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Otto's Grotto",
+      "coords": [
+        -78.20094822135373,
+        -150.31494140625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ourania Cave",
+      "coords": [
+        -63.75092037106373,
+        -138.58154296875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Outpost",
+      "coords": [
+        -78.82648927906214,
+        -151.65527343750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Varrock Palace",
+      "coords": [
+        -78.24131667606136,
+        -134.71435546875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pest Control",
+      "coords": [
+        -81.61414473125653,
+        -146.93115234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pirate's Cove",
+      "coords": [
+        -76.62779647729275,
+        -156.8408203125
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pirates' Hideout",
+      "coords": [
+        -75.93489090881157,
+        -138.47167968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Port Piscarilius",
+      "coords": [
+        -77.2095604335467,
+        -165.19042968750003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Piscatoris Fishing Colony",
+      "coords": [
+        -77.25811391759557,
+        -153.80859375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poision Waste",
+      "coords": [
+        -79.83850193147934,
+        -156.24755859375
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pollnivneach",
+      "coords": [
+        -80.2895919846264,
+        -131.63818359375003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Port Khazard",
+      "coords": [
+        -79.48763572361649,
+        -146.95312500000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Port Phasmatys",
+      "coords": [
+        -78.20993077990676,
+        -124.56298828125001
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Port Sarim",
+      "coords": [
+        -79.35451696285723,
+        -138.40576171875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Port Tyras",
+      "coords": [
+        -79.7372170460372,
+        -158.04931640625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pothole Dungeon",
+      "coords": [
+        2.158302860179763,
+        -142.77832031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Prifddinas",
+      "coords": [
+        -58.7767437527356,
+        -133.59375000000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Puro-Puro",
+      "coords": [
+        -73.82329001704649,
+        -148.33740234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pyramid",
+      "coords": [
+        -80.58523511111508,
+        -134.25292968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Quarry",
+      "coords": [
+        -80.54200556331222,
+        -135.59326171875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Raids",
+      "coords": [
+        -66.6508003685595,
+        -132.51708984375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ranging Guild",
+      "coords": [
+        -78.46311824901979,
+        -146.71142578125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ratcatchers Mansion",
+      "coords": [
+        -68.4052459572798,
+        -142.73437500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Red Base",
+      "coords": [
+        -80.5456155258025,
+        -155.03906250000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rellekka",
+      "coords": [
+        -77.32578439630348,
+        -146.66748046875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Resource Area",
+      "coords": [
+        -76.02007536698626,
+        -135.30761718750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Revenant Caves",
+      "coords": [
+        16.114430643112332,
+        -134.73632812500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rimmington",
+      "coords": [
+        -79.36668721129503,
+        -140.31738281250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "River Elid",
+      "coords": [
+        -79.92343152537035,
+        -131.19873046875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "River Lum",
+      "coords": [
+        -78.8222305988717,
+        -135.70312500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "River Molch",
+      "coords": [
+        -77.34986665415636,
+        -177.71484375
+      ],
+      "size": "default"
+    },
+    {
+      "name": "River Salve",
+      "coords": [
+        -78.40584997410797,
+        -130.51757812500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rogue's Den",
+      "coords": [
+        -69.27754058297207,
+        -138.33984375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rogues' Castle",
+      "coords": [
+        -76.0359910695315,
+        -133.08837890625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ruins of Camdozaal",
+      "coords": [
+        -61.853557632741904,
+        -139.96582031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ruins of Morra",
+      "coords": [
+        -78.10169374090704,
+        -173.49609375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ruins of Ullek",
+      "coords": [
+        -80.81952047805646,
+        -130.40771484375003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ruins of Unkah",
+      "coords": [
+        -80.77735728723856,
+        -135.61523437500003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ruins of Uzer",
+      "coords": [
+        -79.83074602557404,
+        -128.84765625000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ruins",
+      "coords": [
+        -77.23385987524215,
+        -140.09765625000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ruins",
+      "coords": [
+        -77.04311395604842,
+        -135.76904296875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Saltpetre",
+      "coords": [
+        -78.0699405295732,
+        -167.65136718750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Scorpion Pit",
+      "coords": [
+        -75.97754652655703,
+        -134.27490234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sea Spirit Dock",
+      "coords": [
+        -80.78791604803293,
+        -136.49414062500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Secret Hangar",
+      "coords": [
+        10.558022013388603,
+        -152.75390625000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Seers' Village",
+      "coords": [
+        -78.22339197864545,
+        -145.94238281250003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Settlement Ruins",
+      "coords": [
+        -76.24651068267569,
+        -171.05712890625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shadow Dungeon",
+      "coords": [
+        -68.38906658158396,
+        -146.25000000000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shamans",
+      "coords": [
+        -77.17058669497864,
+        -173.8037109375
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shantay Pass",
+      "coords": [
+        -79.7372170460372,
+        -132.69287109375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shayzien",
+      "coords": [
+        -77.86380966943561,
+        -171.80419921875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shayzien Prison",
+      "coords": [
+        12.044692844011117,
+        -173.67187500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shayzien's Wall",
+      "coords": [
+        -77.98790545076095,
+        -174.46289062500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shilo Village",
+      "coords": [
+        -80.27104399499258,
+        -142.80029296875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ship Yard",
+      "coords": [
+        -79.9962142125281,
+        -139.65820312500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sinclair Mansion",
+      "coords": [
+        -77.92371634719358,
+        -145.04150390625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Slayer Tower",
+      "coords": [
+        -77.90070986954176,
+        -129.96826171875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Slepe",
+      "coords": [
+        -78.89864221977672,
+        -123.57421875000001
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Smoke Dungeon",
+      "coords": [
+        -0.7415564444349226,
+        -133.54980468750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sophanem",
+      "coords": [
+        -80.99315289062152,
+        -132.86865234375003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Sophanem Slayer Dungeon (1)",
+      "coords": [
+        -3.551800130051877,
+        -133.61572265625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sophanem Slayer Dungeon (2)",
+      "coords": [
+        -3.5298694189562885,
+        -132.91259765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sorcerer's Tower",
+      "coords": [
+        -78.57246634297974,
+        -145.92041015625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sorceress's Garden",
+      "coords": [
+        -65.06055135846067,
+        -141.37207031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Soul Obelisk",
+      "coords": [
+        -80.53478154030176,
+        -156.81884765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Soul Wars Arena",
+      "coords": [
+        -80.44766565531792,
+        -156.86279296875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Soul Wars Lobby",
+      "coords": [
+        -80.76326027447296,
+        -156.75292968750003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Spider",
+      "coords": [
+        -76.93428068373241,
+        -132.34130859375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Stronghold of Security - Catacomb of Famine",
+      "coords": [
+        -67.33774441285938,
+        -160.99365234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Stronghold of Security - Pit of Pestilence",
+      "coords": [
+        -66.78108358651112,
+        -158.18115234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Stronghold of Security - Sepulchre of Death",
+      "coords": [
+        -67.3038563337608,
+        -154.02832031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Stronghold of Security - Vault of War",
+      "coords": [
+        -67.31233285061575,
+        -163.89404296875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Stronghold Slayer Cave",
+      "coords": [
+        8.738506860189194,
+        -151.78710937500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sulphur mine",
+      "coords": [
+        -76.3090574564603,
+        -173.49609375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Swamp",
+      "coords": [
+        -78.09716267271118,
+        -152.16064453125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tai Bwo Wannai",
+      "coords": [
+        -79.96563250686283,
+        -144.00878906250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tar Swamp",
+      "coords": [
+        -76.82454928314296,
+        -124.45312500000001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Taverley Dungeon",
+      "coords": [
+        8.847078969093316,
+        -141.87744140625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Taverley",
+      "coords": [
+        -78.34830133335922,
+        -141.65771484375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Temple",
+      "coords": [
+        -78.20544034363972,
+        -130.27587890625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Temple of Ikov",
+      "coords": [
+        9.779437952385068,
+        -147.08496093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Temple of Marimbo Dungeon",
+      "coords": [
+        -4.888467448761478,
+        -144.11865234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "The Forgotten Cemetery",
+      "coords": [
+        -76.96405126214468,
+        -139.89990234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "The Forsaken Tower",
+      "coords": [
+        -76.59727184458865,
+        -174.92431640625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "The Hollows",
+      "coords": [
+        -78.67216306664633,
+        -128.43017578125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "The Inferno",
+      "coords": [
+        -66.22924340077924,
+        -155.36865234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "The Node",
+      "coords": [
+        -80.10252542210561,
+        -137.06542968750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "The Warrens",
+      "coords": [
+        15.966610400903184,
+        -166.26708984375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tirannwn",
+      "coords": [
+        -79.17030257647522,
+        -156.07177734375003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Tithe farm",
+      "coords": [
+        -78.11527674798776,
+        -165.60791015625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Toll Gate",
+      "coords": [
+        -79.32199561356671,
+        -133.41796875000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tower of Life",
+      "coords": [
+        -79.36668721129503,
+        -147.10693359375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tower of Magic",
+      "coords": [
+        -76.62271378237696,
+        -170.59570312500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Trawler",
+      "coords": [
+        -79.5635318659379,
+        -146.33789062500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tree Gnome Stronghold",
+      "coords": [
+        -78.38374913256803,
+        -151.89697265625003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Tree Gnome Village",
+      "coords": [
+        -79.5635318659379,
+        -149.76562500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Troll Stronghold",
+      "coords": [
+        -77.2968261555706,
+        -143.06396484375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Trollheim",
+      "coords": [
+        -77.32578439630348,
+        -141.76757812500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Trollweiss Mountain",
+      "coords": [
+        -76.39718801296155,
+        -144.16259765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tutorial Island",
+      "coords": [
+        -79.84625198419818,
+        -137.15332031250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tyras Camp",
+      "coords": [
+        -79.64283716222033,
+        -157.25830078125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "TzHaar City",
+      "coords": [
+        -67.91481604416843,
+        -151.43554687500003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Underground Pass",
+      "coords": [
+        -78.96613050229438,
+        -151.47949218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Underground Pass Area 1",
+      "coords": [
+        6.429942184960368,
+        -151.14990234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Underground Pass Area 2",
+      "coords": [
+        5.052642578738913,
+        -152.57812500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Underground Pass Area 3",
+      "coords": [
+        6.648239156702318,
+        -152.60009765625
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Unmarked Grave",
+      "coords": [
+        -75.99882677182842,
+        -170.66162109375
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ungael",
+      "coords": [
+        -75.30749131006439,
+        -155.39062500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Varrock Sewers",
+      "coords": [
+        10.493213228263974,
+        -134.42871093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Varrock",
+      "coords": [
+        -78.3748971664566,
+        -134.69238281250003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ver Sinhaza",
+      "coords": [
+        -79.35451696285723,
+        -124.82666015625001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Vinery",
+      "coords": [
+        -77.94667972715085,
+        -165.43212890625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Viyeldi caves",
+      "coords": [
+        -71.200149568501,
+        -152.60009765625
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Viyeldi caves (2)",
+      "coords": [
+        -2.015575362572927,
+        -144.16259765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Void Knights' Outpost",
+      "coords": [
+        -81.35055445609389,
+        -147.30468750000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Volcano",
+      "coords": [
+        -76.82454928314296,
+        -122.27783203125001
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Vultures",
+      "coords": [
+        -80.68534404276444,
+        -131.96777343750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Warriors' Guild",
+      "coords": [
+        -77.95126723820164,
+        -142.55859375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Warriors' Guild Basement",
+      "coords": [
+        12.15211594286705,
+        -141.13037109375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "War Tent",
+      "coords": [
+        -77.51718653140836,
+        -172.68310546875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterbirth Island",
+      "coords": [
+        -76.92931242978534,
+        -149.89746093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterbirth Dungeon (1)",
+      "coords": [
+        15.987734284909871,
+        -150.46875000000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterbirth Dungeon (2)",
+      "coords": [
+        -73.52684188399996,
+        -163.65234375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterbirth Dungeon (3)",
+      "coords": [
+        -73.52684188399996,
+        -163.65234375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterbirth Dungeon (4)",
+      "coords": [
+        -73.52684188399996,
+        -163.65234375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterbirth Dungeon (5)",
+      "coords": [
+        -73.52684188399996,
+        -163.65234375000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterbirth Dungeon (6)",
+      "coords": [
+        -73.01456986116074,
+        -141.30615234375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterfall Dungeon",
+      "coords": [
+        10.558022013388603,
+        -148.66699218750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "West Ardougne",
+      "coords": [
+        -78.99552906287806,
+        -149.83154296875003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Western Graveyard",
+      "coords": [
+        -80.5780438081191,
+        -157.80761718750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "White Knights' Castle",
+      "coords": [
+        -78.84350798636584,
+        -140.05371093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "White Wolf Mountain",
+      "coords": [
+        -78.17396004732251,
+        -142.73437500000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wilderness",
+      "coords": [
+        -76.83956579741319,
+        -136.20849609375003
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Wilderness Slayer Cave",
+      "coords": [
+        15.098642867786765,
+        -130.75927734375003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wintertodt",
+      "coords": [
+        -75.64362236303427,
+        -169.47509765625
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Witchaven",
+      "coords": [
+        -79.062435569658,
+        -145.76660156250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Witchaven Dungeon",
+      "coords": [
+        6.189707330332202,
+        -145.48095703125003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Witchaven Dungeon (2)",
+      "coords": [
+        -68.31611646798449,
+        -154.11621093750003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wizards' Guild",
+      "coords": [
+        -79.90804220371633,
+        -148.53515625000003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wizards' Tower",
+      "coords": [
+        -79.59929329498867,
+        -136.95556640625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Woodcutting Guild",
+      "coords": [
+        -78.18296285990871,
+        -169.87060546875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Xeric's Look out",
+      "coords": [
+        -78.01074856672044,
+        -170.35400390625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Xeric's Shrine",
+      "coords": [
+        -77.59766849806758,
+        -176.50634765625003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Yanille",
+      "coords": [
+        -79.86560153635601,
+        -149.17236328125003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Yanille Agility Dungeon",
+      "coords": [
+        2.0265548563992843,
+        -148.57910156250003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Yanille Agility Dungeon (2)",
+      "coords": [
+        3.738189815174382,
+        -148.60107421875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Zanaris",
+      "coords": [
+        -72.9695802620491,
+        -152.22656250000003
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Zul-Andra",
+      "coords": [
+        -79.9618032933327,
+        -156.86279296875003
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Zulrah's shrine",
+      "coords": [
+        -79.92343152537035,
+        -155.47851562500003
+      ]
+    }
+  ]
+  }

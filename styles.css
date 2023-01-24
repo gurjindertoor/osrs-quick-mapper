@@ -1,0 +1,44 @@
+.label-text {
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+  }
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+    
+#search-bar {
+    position: fixed;
+    width: 50%;
+    height: 30px;
+    margin-bottom: 10px;
+    padding: 0 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid black;
+    z-index: 999;
+}
+    
+#suggestions {
+    position: relative;
+     display: none;
+    width: 50%;
+    height: 100px;
+    overflow: scroll;
+    z-index: 998;
+}
+  
+input#search-bar {
+    padding-bottom: 10px;
+}
+
+select#suggestions {
+    position: relative;
+    top: 30px; /* equal to the height of the input element */
+    width: 52.5%;
+}
+  
+  
