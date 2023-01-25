@@ -5,15 +5,15 @@ const RS_OFFSET_X = 1152; // Amount to offset x coordinate to get correct value
 const RS_OFFSET_Y = 8328; // Amount to offset y coordinate to get correct value
 
 var map = L.map("map").setView([-78.20207141002261, -135.7196044921875], 9);
-map.setMinZoom(7);
 
 L.tileLayer(
   "https://raw.githubusercontent.com/Explv/osrs_map_tiles/master/0/{z}/{x}/{y}.png",
   {
-    maxZoom: 8,
+    maxZoom: 19,
     zoomDelta: 0.5,
     zoomSnap: 0.5,
-    minZoom: 4,
+    minZoom: 8,
+    maxZoom: 11,
     attribution: "Map data",
     noWrap: true,
     tms: true,
@@ -25,32 +25,34 @@ let clickedCoordinates;
 const socket = new WebSocket("ws://localhost:8765");
 
 map.on("click", function (e) {
-  // Get the coordinates of the clicked point
+  // Gets the coordinates of the clicked point
   let latlng = e.latlng;
 
-  // Assign the coordinates to the variable
+  // Assigns the coordinates to the variable
   clickedCoordinates = latlng;
 
-  // If there's already a marker, remove it
+  // Removes marker if already exists
   if (marker) {
     map.removeLayer(marker);
   }
 
-  // convert latlng to point
+  // Converts latlng to a point
   let point = map.project(latlng, map.getMaxZoom());
   let y = MAP_HEIGHT_PX - point.y + RS_TILE_HEIGHT_PX / 4;
   y = Math.round((y - RS_TILE_HEIGHT_PX) / RS_TILE_HEIGHT_PX) + RS_OFFSET_Y;
   let x =
     Math.round((point.x - RS_TILE_WIDTH_PX) / RS_TILE_WIDTH_PX) + RS_OFFSET_X;
 
-  // Send x and y to the python script through the websocket
+  // Sends x and y to the python script through the websocket
+  console.log(x, y);
   socket.send(x + "," + y);
 
-  // Create a new marker at the clicked location
+  // Creates a new marker at the clicked location
   marker = L.marker(latlng).addTo(map);
-  // Listen for a response from the python script
+  // Listens for a response from the python script
   socket.onmessage = function (e) {
     marker.bindPopup(e.data).openPopup();
+    console.log(e.data);
   };
 });
 
@@ -70,21 +72,21 @@ fetch("locations_latlng.json")
     var searchBar = document.getElementById("search-bar");
     var suggestions = document.getElementById("suggestions");
     searchBar.addEventListener("input", function () {
-      // Get the input value
+      // Gets the input value
       var inputValue = searchBar.value.toLowerCase();
       var matchingLocations = [];
 
-      // filter locations
+      // filters locations
       locations.forEach(function (location) {
-        if (location.toLowerCase().indexOf(inputValue) !== -1) {
+        if (location.toLowerCase().startsWith(inputValue)) {
           matchingLocations.push(location);
         }
       });
 
-      // Clear previous suggestions
+      // Clears previous suggestions
       suggestions.innerHTML = "";
 
-      // Add new suggestions
+      // Adds new suggestions
       matchingLocations.forEach(function (matchingLocation) {
         var option = document.createElement("option");
         option.value = matchingLocation;
@@ -95,7 +97,7 @@ fetch("locations_latlng.json")
 
     searchBar.addEventListener("keyup", function (event) {
       if (event.key === "Enter") {
-        var selectedLocation = searchBar.value; // fly to location if exists
+        var selectedLocation = searchBar.value; // flys to location if exists
         data.locations.forEach(function (location) {
           if (location.name.toLowerCase() === selectedLocation.toLowerCase()) {
             map.flyTo(location.coords, 8, { maxZoom: 8 });

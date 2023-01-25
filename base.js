@@ -44,6 +44,7 @@ map.on("click", function (e) {
     Math.round((point.x - RS_TILE_WIDTH_PX) / RS_TILE_WIDTH_PX) + RS_OFFSET_X;
 
   // Send x and y to the python script through the websocket
+  console.log(x, y);
   socket.send(x + "," + y);
 
   // Create a new marker at the clicked location

@@ -42,7 +42,6 @@ async def handle_connection(websocket, path):
         data = await websocket.recv()
         x, y = data.split(',')
         user_coords = [int(x), int(y), 0]
-
         closest_coordinates = None
         min_distance = None
 
