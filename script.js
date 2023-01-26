@@ -44,7 +44,6 @@ map.on("click", function (e) {
     Math.round((point.x - RS_TILE_WIDTH_PX) / RS_TILE_WIDTH_PX) + RS_OFFSET_X;
 
   // Sends x and y to the python script through the websocket
-  console.log(x, y);
   socket.send(x + "," + y);
 
   // Creates a new marker at the clicked location
@@ -52,11 +51,11 @@ map.on("click", function (e) {
   // Listens for a response from the python script
   socket.onmessage = function (e) {
     marker.bindPopup(e.data).openPopup();
-    console.log(e.data);
   };
 });
 
-fetch("locations_latlng.json")
+// Fetches json data for all locations converted to latlng
+fetch("resources/locations_latlng.json")
   .then((response) => response.json())
   .then((data) => {
     var locations = [];
@@ -97,7 +96,7 @@ fetch("locations_latlng.json")
 
     searchBar.addEventListener("keyup", function (event) {
       if (event.key === "Enter") {
-        var selectedLocation = searchBar.value; // flys to location if exists
+        var selectedLocation = searchBar.value; // Flys to location if exists
         data.locations.forEach(function (location) {
           if (location.name.toLowerCase() === selectedLocation.toLowerCase()) {
             map.flyTo(location.coords, 8, { maxZoom: 8 });
