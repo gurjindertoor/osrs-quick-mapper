@@ -15,6 +15,17 @@ You will need the following packages:
 * Leaflet.js (JavaScript library for interactive maps)
 * Installation
 
+You can install any missing requirements with pip:
+  ```bash
+  python -m venv env
+  ```
+  ```bash
+  .\env\Scripts\activate
+  ```
+  ```bash
+  pip install tensorflow tensorflow_hub numpy pandas requests flask flask_uploads wtforms Pillow
+```
+
 Installation
 1. Clone the repository:
   ```bash
